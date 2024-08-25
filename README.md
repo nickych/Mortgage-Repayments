@@ -1,6 +1,6 @@
 # Mortgage Repayments Calculator
 
-This Streamlit calculates application  mortgage repayments based on user input and provides a payment schedule and visualizations.
+This is a Streamlit calculates application  mortgage repayments based on user input and provides a payment schedule and visualizations.
 
 ## Features
 
