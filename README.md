@@ -23,11 +23,14 @@ This Streamlit calculates application  mortgage repayments based on user input a
    git clone https://github.com/nickych/Mortgage-Repayments.git
 
 2. **Navigate to the project directory:**
+   ```bash
     cd project-directory
 
 3. **Install the required dependencies:**
+   ```bash
     pip install streamlit pandas matplotlib
 
 4. **Run the Streamlit application:**
+   ```bash
     streamlit run mortgage_math.py
 
