@@ -20,7 +20,7 @@ This Streamlit calculates application  mortgage repayments based on user input a
 
 1. **Clone the repository:**
    ```bash
-   git clone 
+   git clone https://github.com/nickych/Mortgage-Repayments.git
 
 2. **Navigate to the project directory:**
     cd project-directory
